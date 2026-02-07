@@ -97,3 +97,4 @@ if st.button("Predict Fertility Diagnosis"):
 
     except Exception as e:
         st.error("FastAPI server is not running.")
+
